@@ -1,0 +1,6 @@
+{
+    "app": "backend",
+    "image": "backend:v2.1.0",
+    "port": 8080,
+    "environment": "QA"
+}
